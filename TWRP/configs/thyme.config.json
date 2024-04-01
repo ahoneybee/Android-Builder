@@ -5,11 +5,11 @@
             "Branch": "12.1"
         },
         "Device": {
-            "Repo": "https://codeberg.org/DogDayAndroid/twrp_device_xiaomi_thyme",
-            "Branch": "android-13",
-            "Location": "device/xiaomi/thyme",
-            "DeviceName": "thyme",
-            "Makefile": "twrp_thyme",
+            "Repo": "https://github.com/ahoneybee/android_device_asus_I005DS",
+            "Branch": "android-12.1",
+            "Location": "device/asus/I005DS",
+            "DeviceName": "I005DS",
+            "Makefile": "twrp_I005DS",
             "BootPartition": "boot"
         }
     }
