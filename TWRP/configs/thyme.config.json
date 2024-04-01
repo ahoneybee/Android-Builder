@@ -8,8 +8,8 @@
             "Repo": "https://github.com/ahoneybee/android_device_asus_I005DS",
             "Branch": "android-12.1",
             "Location": "device/asus/I005DS",
-            "DeviceName": "I005DS",
-            "Makefile": "twrp_I005DS",
+            "DeviceName": "I005D",
+            "Makefile": "twrp_I005D",
             "BootPartition": "boot"
         },
         "common": {
