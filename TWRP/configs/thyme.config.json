@@ -11,6 +11,14 @@
             "DeviceName": "I005DS",
             "Makefile": "twrp_I005DS",
             "BootPartition": "boot"
+        },
+        "common": {
+            "Repo": "https://github.com/CaptainThrowback/android_device_asus_sm8350-common",
+            "Branch": "android-11",
+            "Location": "device/asus/sm8350",
+            "DeviceName": "sm8350",
+            "Makefile": "commom",
+            "BootPartition": "boot"
         }
     }
 ]
